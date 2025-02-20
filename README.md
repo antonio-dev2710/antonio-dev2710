@@ -1,5 +1,5 @@
 ### Hi, I'm Antonio!
-## I'm a software developer since 2023 of professional experience. My goal is to create maintainable and scalable solutions that deliver tangible business value. I have hands-on experience with a wide range of technologies, including Vue.js, Angular, AngularJS, Java, Spring Boot, Bootstrap, Git, AWS, and CI/CD pipelines. Additionally, I thrive in agile environments, using frameworks like Scrum and Kanban to ensure efficient team collaboration and project delivery.
+## I'm a software developer since 2022 of professional experience. My goal is to create maintainable and scalable solutions that deliver tangible business value. I have hands-on experience with a wide range of technologies, including Vue.js, Angular, AngularJS, Java, Spring Boot, Bootstrap, Git, AWS, and CI/CD pipelines. Additionally, I thrive in agile environments, using frameworks like Scrum and Kanban to ensure efficient team collaboration and project delivery.
 
 
   
